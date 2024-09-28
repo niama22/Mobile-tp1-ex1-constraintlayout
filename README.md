@@ -13,7 +13,7 @@ HelloToast est une application Android simple qui comprend deux boutons et un ch
 - ConstraintLayout
 
 ## Demonstration
-You can watch a demonstration of the app [here](https://github.com/niama22/Mobile-tp1-ex1-constraintlayout/issues/1#issue-2554412247).
+Vous pouvez consulter la démonstration de l'application: [here](https://github.com/niama22/Mobile-tp1-ex1-constraintlayout/issues/1#issue-2554412247).
 
 
 ## Installation
