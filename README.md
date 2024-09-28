@@ -16,8 +16,4 @@ HelloToast est une application Android simple qui comprend deux boutons et un ch
 Vous pouvez consulter la démonstration de l'application: [ici](https://github.com/niama22/Mobile-tp1-ex1-constraintlayout/issues/1#issue-2554412247).
 
 
-## Installation
-Pour cloner le dépôt et exécuter l'application localement, utilisez les commandes suivantes :
 
-```bash
-git clone https://github.com/niama22/Mobile-tp1-ex1-constraintlayout.git
