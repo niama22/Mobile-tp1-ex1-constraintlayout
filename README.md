@@ -17,4 +17,3 @@ Pour cloner le dépôt et exécuter l'application localement, utilisez les comma
 
 ```bash
 git clone https://github.com/niama22/Mobile-tp1-ex1-constraintlayout.git
-
